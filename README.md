@@ -26,7 +26,7 @@ Transform natural language questions into SQL queries with built-in security, va
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/guardsql-agent.git
+git clone clone https://github.com/KhemajiThakor/guardsql-agent.git
 cd guardsql-agent
 
 # 2. Start Ollama on host
@@ -284,7 +284,7 @@ Contributions welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guideli
 
 ## 📧 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/guardsql-agent/issues)
+- **Issues**: [GitHub Issues](https://github.com/KhemajiThakor/guardsql-agent/issues)
 - **Documentation**: See docs in repository
 - **Test Queries**: See [TEST_QUERIES.md](TEST_QUERIES.md)
 
